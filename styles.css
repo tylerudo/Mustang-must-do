@@ -1,0 +1,34 @@
+/*styles of tags*/
+html {
+  background-color: skyblue;
+}
+h1{
+font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+  /* Generic fonts: sans-serif, serif, fantasy, monospaced, cursive */
+}
+h2{
+font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+    /* Generic fonts: sans-serif, serif, fantasy, monospaced, cursive */
+}
+h3{
+font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+    /* Generic fonts: sans-serif, serif, fantasy, monospaced, cursive */
+}
+h4{
+  font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+    /* Generic fonts: sans-serif, serif, fantasy, monospaced, cursive */
+}
+h5{
+font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+    /* Generic fonts: sans-serif, serif, fantasy, monospaced, cursive */
+}
